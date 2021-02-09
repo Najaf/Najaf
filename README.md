@@ -19,7 +19,7 @@ I have fifteen years of experience working to create web application software. R
 
 ## Experience
 ### Consulting Technical Lead
-_September 2018 - Present - 1 year and 4 months_
+_September 2018 - Present_
 
 I plan work, build features, and consult for remote technical teams from my office in Sendai, Japan. Primarily using Rails but usually a mix of different technologies as required. Some recent and ongoing clients include:
 
