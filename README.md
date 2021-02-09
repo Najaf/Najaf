@@ -1,8 +1,10 @@
-### Hi there 👋
 
-# Najaf Ali - Curriculum Vitae
 
-I’m a senior technologist currently available for Freelance/Consulting engagements. I have twelve years of experience working to create web application software. Read on to find out more about my skills/experiences.
+# Najaf Ali
+
+## I’m a senior technologist currently available for Freelance/Consulting engagements.
+
+I have fifteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
 
 * [Contact information](#contact-information)
 * [Experience](#experience)
