@@ -12,10 +12,10 @@ I have fifteen years of experience working to create web application software. R
 
 ## Contact information
 
-* ✉️  Email: [ali.najaf@gmail.com](mailto:ali.najaf@gmail.com)
-* 📱  Phone: 080-9629-1806
-* 📍  Location: [Sendai, Miyagi Prefecture, Japan](https://www.google.com/maps/place/Sendai+Station/@38.2553758,140.8643444,12.64z/data=!4m5!3m4!1s0x5f8a28180c510b87:0xb2a30b91be1ffdbc!8m2!3d38.2601542!4d140.8824062) (spousal visa, can attend interviews/meetings in Tokyo)
-* ⏰  Timezone: JST (UTC+9) (can usually find a time to speak during US/EU work hours).
+* Email: [ali.najaf@gmail.com](mailto:ali.najaf@gmail.com)
+* Phone: 080-9629-1806
+* Location: [Sendai, Miyagi Prefecture, Japan](https://www.google.com/maps/place/Sendai+Station/@38.2553758,140.8643444,12.64z/data=!4m5!3m4!1s0x5f8a28180c510b87:0xb2a30b91be1ffdbc!8m2!3d38.2601542!4d140.8824062) (spousal visa, can attend interviews/meetings in Tokyo)
+* Timezone: JST (UTC+9) (can usually find a time to speak during US/EU work hours).
 
 ## Experience
 ### Consulting Technical Lead
@@ -33,7 +33,7 @@ _January 2012 - September 2018 - 6 years and 8 months_
 [Happy Bear Software](https://web.archive.org/web/20190731192039/https://www.happybearsoftware.com/) was a Ruby on Rails development consultancy that I started and ran for almost seven years.  Some highlights include:
 
 * I worked hands-on and managed more than thirty projects, using Ruby, Rails, modern JavaScript, and a large variety of back-end technologies to deliver software for our clients.
-* I hired and trained multiple apprentice developers  from raw beginners to senior developers.
+* I hired and trained multiple apprentice developers from raw beginners to senior developers.
 * I created technical/communication processes and guides for the team in order to maintain a consistently high standard of software and client experience
 
 ### Full-time/Freelance Full-stack web developer at various companies
@@ -59,8 +59,9 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 - [Mental Models for Better Code - Bath Ruby 2018](https://www.youtube.com/watch?v=wZ4ONrAU8fE)
 - How to grow a small development team - LRUG June 2018
 
-## Social media links
+## Links around the web
 
+* [My Writing](https://najafaliwriting.com)
 * [GitHub](https://github.com/Najaf)
 * [LinkedIn](https://www.linkedin.com/in/najafali/)
 * [Twitter](https://twitter.com/alinajaf)
