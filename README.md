@@ -1,5 +1,5 @@
 
-**I’m a senior technologist currently available for Freelance/Consulting engagements.**
+**I’m a senior technologist currently (Feb 2021) available for Freelance/Consulting engagements.**
 
 I have fifteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
 
