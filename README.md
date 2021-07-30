@@ -50,7 +50,7 @@ For a full work-history with details of specific employment please see [my profi
 * Ability to plan, create, modify, and debug web application software, primarily using Ruby, Rails, common gems, and modern JavaScript.
 * Managing web application development teams, maintaining effective communication, project reporting, one-to-one meetings, retros, conflict resolution, and running an effective hiring process.
 * BSc in Computer Science at University College London (2003 - 2006)
-* Conversational spoken Japanese
+* Fluent spoken Japanese
 
 ## Selected talks
 I’ve spoken at a number of Ruby conferences and have given many presentations at the London Ruby User Group :
@@ -62,7 +62,6 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 
 ## Links around the web
 
-* [My Writing](https://najafaliwriting.com)
 * [GitHub](https://github.com/Najaf)
 * [LinkedIn](https://www.linkedin.com/in/najafali/)
 * [Twitter](https://twitter.com/alinajaf)
