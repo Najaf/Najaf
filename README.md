@@ -14,7 +14,7 @@ I have eighteen years of experience working to create web application software. 
 
 * Email: [ali.najaf@gmail.com](mailto:ali.najaf@gmail.com)
 * Phone: 080-9629-1806
-* Location: [Sendai, Miyagi Prefecture, Japan](https://www.google.com/maps/place/Sendai+Station/@38.2553758,140.8643444,12.64z/data=!4m5!3m4!1s0x5f8a28180c510b87:0xb2a30b91be1ffdbc!8m2!3d38.2601542!4d140.8824062) (spousal visa, can attend interviews/meetings in Tokyo)
+* Location: [Sendai, Miyagi Prefecture, Japan](https://www.google.com/maps/place/Sendai+Station/@38.2553758,140.8643444,12.64z/data=!4m5!3m4!1s0x5f8a28180c510b87:0xb2a30b91be1ffdbc!8m2!3d38.2601542!4d140.8824062) (visa type: 定住権, sponsorship not required, can attend interviews/meetings in Tokyo)
 * Timezone: JST (UTC+9) (can usually find a time to speak during US/EU work hours).
 
 ## Experience
