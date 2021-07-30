@@ -1,7 +1,7 @@
 
 # I’m a senior technologist available for Freelance/Consulting engagements from May 2021
 
-I have fifteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
+I have eighteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
 
 * [Contact information](#contact-information)
 * [Experience](#experience)
@@ -23,9 +23,10 @@ _September 2018 - Present_
 
 I plan work, build features, and consult for remote technical teams from my office in Sendai, Japan. Primarily using Rails but usually a mix of different technologies as required. Some recent and ongoing clients include:
 
-- [IndustrialML](https://www.industrialml.com/) - Work on a proprietary machine learning platform that collects, cleans, displays and analyses factory data.
-- [CoverageBook](https://coveragebook.com/) - A PR reporting tool that automatically generates metrics for URLs.
-- [ReallyEnglish](https://www.reallyenglish.com/) - An English language education platform for enterprise customers.
+- [CaptionHub](https://www.captionhub.com/) - Video captioning workflow application where I worked on integrating with automated translation services
+- [IndustrialML](https://www.industrialml.com/) - Work on a proprietary machine learning platform that collects, cleans, displays and analyses factory data
+- [CoverageBook](https://coveragebook.com/) - A PR reporting tool that automatically generates metrics for URLs
+- [ReallyEnglish](https://www.reallyenglish.com/) - An English language education platform for enterprise customers
 
 ### Founder and CTO at Happy Bear Software
 _January 2012 - September 2018 - 6 years and 8 months_
