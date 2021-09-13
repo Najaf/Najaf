@@ -44,12 +44,12 @@ My bugfixing process is similar to my development process:
 
 ## Productivity
 
-Staying productive (especially when working remotely) is a challenge for all developers. Here's what I do so that I can put in produtive work every day:
+Staying productive (especially when working remotely) is a challenge for all developers. Here's what I do so that I can put in focused work every day:
 
-* Planning and communication. In order to keep forward momentum I try to break larger projects down into smaller pieces and communicate before, during, and after implementation.
-* Time management and logging. I try to keep detailed logs of exactly what time I spend and how I spend it while doing development work. This helps to keep me focused and also makes providing status reports a great deal easier.
-* Staying generally healthy. This includes maintaining a sensible sleep cycle, staying hydrated, lifting weights 4-5 times a week, and trying to stick to an overall healthy diet. While these things aren't directly related to programming, I find that the amount of time I can spend doing deep work drops if I don't keep these fundamentals in check.
+* **Planning and communication**. In order to keep forward momentum I try to break larger projects down into smaller pieces and communicate before, during, and after implementation.
+* **Time management and logging**. I try to keep detailed logs of exactly what time I spend and how I spend it while doing development work. This helps to keep me focused and also makes providing status reports a great deal easier.
+* **Staying generally healthy**. This includes maintaining a sensible sleep cycle, staying hydrated, lifting weights 4-5 times a week, and trying to stick to an overall healthy diet. While these things aren't directly related to programming, I find that the amount of time I can spend doing deep work drops if I don't keep these fundamentals in check.
 
 ## Typical engagement structure and rates
 
-My average engagement with clients runs at a fixed number of hours per week (typically 10-15) week at a rate of $175/hour, invoiced monthly. 
+My average engagement with clients runs at a fixed number of hours per week (typically 10-15) week at a rate of $175/hour, invoiced monthly.
