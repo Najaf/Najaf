@@ -1,10 +1,12 @@
 # Working with me
 
-This file gives you a rough outline of how I work with freelance clients. If you're looking for an overview of my work history, please see my main GitHub profile page here:
+I  work as a freelance/consulting software engineer, augmenting product development teams. This file provides an outline of how I work with clients.
+
+If instead you're looking for an overview of my work history, please see my main GitHub profile page here:
 
 https://github.com/Najaf
 
-I currently work as a freelance/consulting software engineer, typically augmenting existing teams that are working directly on a product.
+ If you have any further questions please email me at ali.najaf@gmail.com
 
 ## Written communication
 
