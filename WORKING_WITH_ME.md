@@ -16,7 +16,20 @@ I write, a lot. On a development team this extends to status updates, wiki pages
 
 ## Feature Development
 
+When implementing changes to any given system, my process is roughly as follows:
+
+* Gather as much information and context as possible about the existing system and the intentions behind the proposed changes.
+* Collaborate with product decision-making people, other developers, and anyone else involved with the feature to make decisions about requirements. Then document those requirements.
+* For larger features, make a an implementation plan and have at least one other review it.
+* Implement the feature, preferably with tests. Have other developers on the team review the implementation in a PR.
+* Deploy the feature.
+* Ensure that the feature meets the decided requirements in production.
+
+The idea behind this way of working is that no one should be surprised by any of the work I do. I try to get buy-in from relevant people on the team on what I'm going to build and how I'm going to build it.
+
 ## Bug fixing
+
+My bugfixing process is similar to my development process
 
 ## Productivity
 
