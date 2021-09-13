@@ -40,7 +40,7 @@ My bugfixing process is similar to my development process:
 3. If the cause isn't readily apparent, gather further information, conduct experiments, have discussions etc until the the cause of the bug becomes clear
 4. If there are multiple options for a fix, weigh them up and decide on a fix for now, potentially after speaking to other developers or product managers
 5. Implement and deploy the fix
-6. Confirm that the fix work on production
+6. Confirm that the fix works on production
 
 ## Productivity
 
