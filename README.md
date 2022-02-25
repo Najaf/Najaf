@@ -1,8 +1,6 @@
 
 # I’m a senior technologist available for Freelance/Consulting engagements from September 2021
 
-# 僕は猿です
-
 I have eighteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
 
 Read on for information about my skills/experience, or see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).
