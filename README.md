@@ -25,6 +25,7 @@ _September 2018 - Present - 3 years_
 
 I plan work, build features, and consult for remote technical teams from my office in Sendai, Japan. Primarily using Rails but usually a mix of different technologies as required. Some recent and ongoing clients include:
 
+- [GOAT](https://www.goat.com/) - High-traffic e-commerce site, where I work primarily on upgrades and software quality.
 - [CaptionHub](https://www.captionhub.com/) - Video captioning workflow application where I worked on integrating with automated translation services
 - [IndustrialML](https://www.industrialml.com/) - Work on a proprietary machine learning platform that collects, cleans, displays and analyses factory data
 - [CoverageBook](https://coveragebook.com/) - A PR reporting tool that automatically generates metrics for URLs
