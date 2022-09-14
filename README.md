@@ -21,7 +21,7 @@ Read on for information about my skills/experience, or see [this document about 
 
 ## Experience
 ### Consulting Technical Lead
-_September 2018 - Present - 3 years_
+_September 2018 - Present - 4 years_
 
 I plan work, build features, and consult for remote technical teams from my office in Sendai, Japan. Primarily using Rails but usually a mix of different technologies as required. Some recent and ongoing clients include:
 
