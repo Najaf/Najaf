@@ -12,14 +12,14 @@ Alternatively, see [this document about how I typically work with clients](https
 * [Social media](#social-media-links)
 * [Recommendations](#nice-things-people-have-said-about-me)
 
-## Contact information
+## 📪 Contact information
 
 * Email: [ali.najaf@gmail.com](mailto:ali.najaf@gmail.com)
 * Phone: 080-9629-1806
 * Location: [Sendai, Miyagi Prefecture, Japan](https://www.google.com/maps/place/Sendai+Station/@38.2553758,140.8643444,12.64z/data=!4m5!3m4!1s0x5f8a28180c510b87:0xb2a30b91be1ffdbc!8m2!3d38.2601542!4d140.8824062) (visa type: 定住権, sponsorship not required, can attend interviews/meetings in Tokyo)
 * Timezone: JST (UTC+9) (can usually find a time to speak during US/EU work hours).
 
-## Experience
+## 🃋 Experience
 ### Consulting Technical Lead
 _September 2018 - Present - 4 years_
 
@@ -49,13 +49,13 @@ Following that I worked at many companies in the UK while developing my skills a
 
 For a full work-history with details of specific employment please see [my profile on LinkedIn](https://www.linkedin.com/in/najafali/) .
 
-## Education and skills
+## ⚒️ Education and skills
 * Ability to plan, create, modify, and debug web application software, primarily using Ruby, Rails, common gems, and modern JavaScript.
 * Managing web application development teams, maintaining effective communication, project reporting, one-to-one meetings, retros, conflict resolution, and running an effective hiring process.
 * BSc in Computer Science at University College London (2003 - 2006)
 * Fluent spoken Japanese
 
-## Selected talks
+## 🎙️ Selected talks
 I’ve spoken at a number of Ruby conferences and have given many presentations at the London Ruby User Group :
 
 - [Better security for your Rails applications - RubyConf Uruguay 2014](https://www.youtube.com/watch?v=P0wFQxVr6Eg)
@@ -63,13 +63,13 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 - [Mental Models for Better Code - Bath Ruby 2018](https://www.youtube.com/watch?v=wZ4ONrAU8fE)
 - How to grow a small development team - LRUG June 2018
 
-## Links around the web
+## 🔗 Links around the web
 
 * [GitHub](https://github.com/Najaf)
 * [LinkedIn](https://www.linkedin.com/in/najafali/)
 * [Twitter](https://twitter.com/alinajaf)
 
-## Nice things people have said about me
+## 💙 Nice things people have said about me
 
 
 ### Kaitlyn Tierney, Senior Developer at Happy Bear Software:
