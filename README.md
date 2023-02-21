@@ -1,9 +1,9 @@
 
-# I’m a senior technologist available for Freelance/Consulting engagements from October 2022
+# I’m a senior technologist available for Freelance/Consulting engagements from February 2023
 
-I have eighteen years of experience working to create web application software. Read on to find out more about my skills/experiences.
+I have eighteen years of experience building web applications. Read on to find out more about my skills/experiences.
 
-Read on for information about my skills/experience, or see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).
+Alternatively, see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).
 
 * [Contact information](#contact-information)
 * [Experience](#experience)
