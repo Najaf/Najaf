@@ -71,6 +71,13 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 
 ## 💙 Nice things people have said about me
 
+### Aaron Oehlschlaeger, Director Of Engineering at GOAT GroupDirector Of Engineering at GOAT Group:
+
+> "Ali is a talented, communicative, and adaptable engineer who was hired to lend additional manpower and expertise to a particularly complex Ruby on Rails app. He demonstrated an eagerness to add value and a genuine care for his work, which included several large and non-trivial technical upgrades. 
+> 
+> His solutions were thoughtful and well-tested, and he went out of his way to learn and understand the organization’s development processes and design patterns. As a result, his contributions felt more like those of a coworker than a contractor, and his productivity and self-sufficiency allowed him to take on multiple tasks in parallel.
+> 
+> We were fortunate to have Ali stay on past the length of his initial engagement, and I’d gladly recommend him and seek out his expertise again."
 
 ### Kaitlyn Tierney, Senior Developer at Happy Bear Software:
 
