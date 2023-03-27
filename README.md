@@ -71,7 +71,7 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 
 ## 💙 Nice things people have said about me
 
-### Aaron Oehlschlaeger, Director Of Engineering at GOAT GroupDirector Of Engineering at GOAT Group:
+### Aaron Oehlschlaeger, Director Of Engineering at GOAT Group:
 
 > "Ali is a talented, communicative, and adaptable engineer who was hired to lend additional manpower and expertise to a particularly complex Ruby on Rails app. He demonstrated an eagerness to add value and a genuine care for his work, which included several large and non-trivial technical upgrades. 
 > 
