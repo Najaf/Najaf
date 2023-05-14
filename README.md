@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 I’m a senior technologist available for Freelance/Consulting engagements from March 2023
+# 👨🏻‍💻 I’m a senior technologist searching for Staff Engineer and Engineering Manager positions in Tokyo
 
 I have eighteen years of experience building web applications. Read on to find out more about my skills/experiences.
 
