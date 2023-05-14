@@ -3,7 +3,7 @@
 
 I have eighteen years of experience building web applications. Read on to find out more about my skills/experiences.
 
-Alternatively, see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).
+<!--Alternatively, see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).-->
 
 * [Contact information](#contact-information)
 * [Experience](#experience)
