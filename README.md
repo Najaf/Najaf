@@ -21,8 +21,14 @@ I have eighteen years of experience building web applications. Read on to find o
 * Timezone: JST (UTC+9) (can usually find a time to speak during US/EU work hours).
 
 ## ⚔️ Experience
+
+### Engineering Manager - Givery KK
+2023 - Present
+
+I manage a team of engineers in the product development organization of Givery, focusing on HRTech SaaS products.
+
 ### Consulting Technical Lead
-_September 2018 - Present - 4 years_
+_2018 - 2024 (4 years)_
 
 I plan work, build features, and consult for remote technical teams from my office in Sendai, Japan. Primarily using Rails but usually a mix of different technologies as required. Some recent and ongoing clients include:
 
