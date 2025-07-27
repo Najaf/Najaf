@@ -5,13 +5,6 @@ I have twenty years of experience building web applications and leading software
 
 <!--Alternatively, see [this document about how I typically work with clients](https://github.com/Najaf/Najaf/blob/main/WORKING_WITH_ME.md).-->
 
-* [Contact information](#contact-information)
-* [Experience](#experience)
-* [Education and skills](#education-and-skills)
-* [Talks I've given](#selected-talks)
-* [Social media](#social-media-links)
-* [Recommendations](#nice-things-people-have-said-about-me)
-
 ## 📪 Contact information
 
 * Full name: Najaf Ali
@@ -76,6 +69,7 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 * [LinkedIn](https://www.linkedin.com/in/najafali/)
 * [Twitter](https://twitter.com/alinajaf)
 
+<!--
 ## 💙 Nice things people have said about me
 
 ### Aaron Oehlschlaeger, Director Of Engineering at GOAT Group:
@@ -123,6 +117,7 @@ I’ve spoken at a number of Ruby conferences and have given many presentations 
 ### Greg Woods, User Experience Architect:
 > "I was fortunate enough to work with Ali on numerous digital projects. He was my lead programmer on many interesting but often complex projects. As a team member, he was my favored confidant when it came to project liaison and technical know-how and I could always rely on Ali to respond to my requests, demands (sorry Ali) and project related inquiries with efficiency, enthusiasm and genuine interest. He is a first class developer and a good bloke to boot. I wish him the very best in the future."
 
+-->
 
 <!--
 **Najaf/Najaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
