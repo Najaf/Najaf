@@ -23,7 +23,7 @@ I have twenty years of experience building web applications and leading software
 ## ⚔️ Experience
 
 ### Engineering Manager - Givery KK
-2023 - Present
+_2023 - Present (2 years)_
 
 I manage a team of engineers in the product development organization of Givery, focusing on HRTech SaaS products.
 
